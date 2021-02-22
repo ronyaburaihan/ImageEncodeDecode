@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageEncodeDecode</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+    <string name="type_encoded_text">Type encoded text</string>
+    <string name="copy">Copy</string>
+</resources>
